@@ -11,5 +11,4 @@
   - <img src="https://github.com/harryfornasier/harryfornasier/blob/main/HalloweenICS/scared.jpg" width="20"> Creating interesting web-apps with JS
   - <img src="https://github.com/harryfornasier/harryfornasier/blob/main/HalloweenICS/spider%202.png" width="20"> Making backwards compatible websites using limited JS
   - Raspberry Pi Projects
-- I like to write blogs
 - Fun fact: I really like old mac computers
