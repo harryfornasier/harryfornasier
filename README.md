@@ -6,7 +6,7 @@
 
 <img align="left" src="https://github.com/harryfornasier/harryfornasier/blob/main/IMG_3700.jpeg" width="300" alt="Me pretending to use a macintosh">
 
-- I'm currently studying the software engineering course at Brainstation
+- <img src="https://github.com/harryfornasier/harryfornasier/blob/main/HalloweenICS/Witch%20Hat.jpg" width="20"> I'm currently studying the software engineering course at Brainstation
 - Things I enjoy working on
   - Creating interesting web-apps with JS
   - Making backwards compatible websites using limited JS
