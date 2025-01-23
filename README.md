@@ -4,7 +4,7 @@
 
 <div class="EM Quad Character"> </div>
 
-<img align="left" src="https://github.com/harryfornasier/harryfornasier/blob/main/IMG_3700.jpeg" width="300" alt="Me pretending to use a macintosh">
+ <!--<img align="left" src="https://github.com/harryfornasier/harryfornasier/blob/main/IMG_3700.jpeg" width="300" alt="Me pretending to use a macintosh">-->
 
 
 - I'm currently studying software engineering at BrainStation
