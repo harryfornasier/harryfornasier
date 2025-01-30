@@ -13,7 +13,7 @@
   - Making backwards compatible websites using limited JS
   -  Raspberry Pi Projects
 -  Fun fact: I really like old Macintosh computers
--  Learning: I'm currently setting up a blog with Next.js and TypeScript
+-  Learning: I'm currently learning Data Structures and Alorithms
 
 
  <!-- Halloween Icons
