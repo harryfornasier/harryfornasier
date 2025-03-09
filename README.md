@@ -6,8 +6,6 @@
 
  <!--<img align="left" src="https://github.com/harryfornasier/harryfornasier/blob/main/IMG_3700.jpeg" width="300" alt="Me pretending to use a macintosh">-->
 
-
-- I'm currently studying software engineering at BrainStation
 - Things I enjoy working on
   -  Creating interesting web-apps with JS
   - Making backwards compatible websites using limited JS
