@@ -8,7 +8,7 @@
 
 - Things I enjoy working on
   -  Creating interesting web-apps with JS
-  - Making backwards compatible websites using limited JS
+  -  Home automation
   -  Raspberry Pi Projects
 -  Fun fact: I really like old Macintosh computers
 -  Learning: I'm currently learning Data Structures and Alorithms
